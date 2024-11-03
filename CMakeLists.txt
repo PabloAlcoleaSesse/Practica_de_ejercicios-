@@ -27,5 +27,11 @@ add_executable(Ejercicio_10
         "Ej_10/main.cpp")
 add_executable(Ejercicio_11
         "Ej_11/main.cpp")
+add_executable(Ejercicio_12
+        "Ej_12/main.cpp")
 add_executable(Ejercicio_13
         "Ej_13/main.cpp")
+add_executable(Ejercicio_14
+        "Ej_14/main.cpp")
+add_executable(Ejercicio_15
+        "Ej_15/main.cpp")
