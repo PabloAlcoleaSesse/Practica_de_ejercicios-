@@ -2,42 +2,71 @@
 
 ## Ejercicios propuestos (1) – Entrada y salida
 1.- Escribe un programa que al ejecutarse muestre en pantalla el mensaje “Me gustan las matemáticas”.
+
 2.- Escribe un programa que pida tres números y muestre la media aritmética de esos tres números.
+
 3.- Escribe un programa que pida un número entero y calcule el cuadrado y el cubo de dicho número.
+
 4.- Escribir un programa que calcule el área de un rectángulo, a partir de la longitud de los lados del rectángulo que introduce el usuario.
+
 5.- Escribir un programa que lea a través del teclado dos cadenas de caracteres y muestre como resultado si ambas cadenas son iguales o no lo son. 
+
 6.- Escribir un programa que calcule la longitud de la hipotenusa de un triángulo rectángulo, utilizando el teorema de Pitágoras.
+
 7.- Escribir un programa que resuelva ecuaciones de primer grado de la forma Ax+B=C. Los valores de A, B y C se introducen por teclado 
+
 8.- Escribir un programa que calcule el precio final de un producto en euros (incluyendo el iva del 21%) a partir del precio del producto, que se introduce por teclado.
+
 9.- Escribir un programa que simule una calculadora sencilla. El programa pedirá dos números y calculará la suma, la resta, la multiplicación y la división de ambos.
+
 ## Ejercicios propuestos (2). Estructuras de control
 10.- Escribir un programa que pida un número a través del teclado y muestre un mensaje indicando si el número es positivo, negativo o cero.
+
 11.- Escribir un programa que muestre el mayor de dos números introducidos a través del teclado.
+
 12.- Escribir un programa que lea tres números positivos y compruebe cuántos de ellos son iguales, mostrando el resultado en pantalla.
 Por ejemplo, si se introducen los números 5 6 5 la salida del programa será el mensaje “hay dos números iguales”. Si se introduce 5 9 3 la salida del programa será “no hay números iguales”.
 13.- En una tienda se ofrece una promoción para poder llevarse tres artículos al precio de dos (los dos más caros). Escribir un programa que tras introducir los precios de los tres artículos devuelva como resultado el total a pagar por el cliente.
+
 14.- Escribir un programa que muestre el mayor de tres números introducidos a través del teclado.
+
 15.- Escribir un programa que muestre ordenados de mayor a menor tres números introducidos a través del teclado.
+
 16.- Escribir un programa que determine si un año es bisiesto.
+
 17.- Crea un programa que solicite al usuario ingresar un número del 1 al 7 y que imprima el nombre del día de la semana correspondiente (1 para lunes, 2 para martes, etc.). Usa una estructura switch para resolverlo.
+
 18.- Escribir un programa que solicite al usuario dos números enteros y muestres las opciones básicas de una calculadora sencilla: suma, resta, multiplicación y división. El usuario seleccionará una opción, y el programa mostrará la solución de la operación seleccionada.
+
 19.- Escribir un programa que resuelva un sistema de ecuaciones lineales de la forma:
+
 𝑎𝑎𝑎𝑎 + 𝑏𝑏𝑏𝑏= 𝑐𝑐
+
 𝑑𝑑𝑎𝑎 + 𝑒𝑒𝑏𝑏= 𝑓𝑓
+
 El programa leerá los dos conjuntos de coeficientes de ambas ecuaciones, es decir:
+
 • a, b, c
+
 • d, e, f
+
 y que calcule los valores de x e y
-20.
-- Escribir un programa que convierta un número dado de segundos en su equivalente en horas, minutos y segundos, y escriba el resultado en pantalla
+
+20.- Escribir un programa que convierta un número dado de segundos en su equivalente en horas, minutos y segundos, y escriba el resultado en pantalla
 con el formato:
+
 • hh:mm:ss
+
 21.- Escribir un programa que lea dos números enteros y escriba en pantalla los dos enteros, su cuadrado y su cubo en forma de tabla
+
 22.- Escribir un programa que resuelva ecuaciones de segundo grado, dados los tres coeficientes (a, b, c) leídos desde el teclado. Considerar todas las
 opciones posibles.
+
 ax2 + bx + c = 0
+
 23. - Escribir un programa que lea un número entero positivo desde el teclado
 y muestre como resultado un mensaje indicando si el número es primo o no.
+
 24. - Escribir un programa que muestre en pantalla el triángulo de Floyd, hasta un valor dado que se introducirá a través del teclado, y que deberá ser mayor de cero y menor de 15. El triángulo de Floyd contiene los números naturales correlativos,uno en la primera línea, dos en la segunda, tres en la tercera, etc. Es decir, que en la línea n-ésima aparecerán n valores.
 1
 1 2
